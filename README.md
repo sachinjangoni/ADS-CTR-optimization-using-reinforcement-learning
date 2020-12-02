@@ -1,4 +1,4 @@
-# ads-CTR-optimization-using-reinforcement-learning
+# ADS-CTR-optimization-using-reinforcement-learning
 # About dataset
 Ten different types of car(SUV) advertisments in different locations.the datasent as 0 and 1 variables suppose if the user click on Ad1 then machine get reward of 1 otherwise it gets 0.
 # Task
